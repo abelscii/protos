@@ -1,4 +1,4 @@
-module github.com/abelskii/protos
+module github.com/abelscii/protos
 
 go 1.21.4
 
